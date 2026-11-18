@@ -26,6 +26,10 @@
 	<string>$(FLUTTER_BUILD_NUMBER)</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Dido Live necesita el micrófono para transmitir audio mientras mantienes presionado el botón PTT.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Dido Live necesita acceso a tus fotos para configurar tu imagen de perfil.</string>
 	<key>UIApplicationSceneManifest</key>
 	<dict>
 		<key>UIApplicationSupportsMultipleScenes</key>
