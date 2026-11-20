@@ -1,11 +1,11 @@
 {
-    "name": "dido_live",
-    "short_name": "dido_live",
+    "name": "Dido Live",
+    "short_name": "Dido Live",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#171C23",
+    "theme_color": "#202833",
+    "description": "Salas privadas, chat en tiempo real y comunicación PTT.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
